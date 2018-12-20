@@ -4,3 +4,6 @@ This repository contains the source code for my previous CV-website. The [Link](
 
 ![Front page](docs/home.png)
 
+## To change skill
+
+![Front page](docs/skill.png)
