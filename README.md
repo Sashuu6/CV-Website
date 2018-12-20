@@ -1,4 +1,5 @@
 # CV-Website
-This is my second CV website.
-Anyone can use it. But, please dont remove the footer tag.
-This will support my work.
+
+This repository contains the source code for my previous CV-website. The [Link](https://https://sashuu6.github.io/CV-Website/) directs you to the website. The following image is the layout of the page.
+![Front page](https://https://sashuu6.github.io/CV-Website/docs/home.png")
+
