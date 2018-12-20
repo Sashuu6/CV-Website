@@ -5,7 +5,7 @@ This repository contains the source code for my previous CV-website. The [Link](
 ![Front page](docs/home.png)
 
 ## To change skill
-To edit the skill, make changes in css/layout.css.
+I added help for skill because it is created as a css function. Other bits are simple. To edit the skill, make changes in css/layout.css.
 ![Front page](docs/skill.png)
 
 ```css
@@ -61,6 +61,6 @@ eg: I will create a function for adding python language.
 
 ### HTML
 ```html
-<span class="bar-expand python-language"></span><em>C Language (with data structures) </em>
+<span class="bar-expand python-language"></span><em>Python Language </em>
 ```
 
